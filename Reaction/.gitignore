@@ -4,3 +4,8 @@
 /obj/
 /Packages/
 /Temp/
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/Reaction.csproj
+/Reaction.sln
+/ReactionTests.csproj
